@@ -1,2 +1,2 @@
 # wi-iat
-code repository for paper accepcted at wi-iat.
+code repository for paper accepted at wi-iat.
